@@ -1,2 +1,2 @@
 # SkillSummary
-分享技能总结
+技能总结
